@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @Nashrakhan
-<!-- - 👀 I’m interested in ... -->
-- 🌱 I’m currently learning Python
-<!-- - 💞️ I’m looking to collaborate on ... -->
-<!-- - 📫 How to reach me ... -->
+🚀 Building **Conquerin.co**
 
 <!---
 Nashrakhan/Nashrakhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
